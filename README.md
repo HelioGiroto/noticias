@@ -1,10 +1,10 @@
-Sex Nov 10 23:01:40 BRST 2017
+Sex Nov 10 23:42:56 BRST 2017
 
 Temperatura em Sao Paulo: 21 ºC
 
 Clima:  Pancada de chuva
 
-******** NOTICIAS *********
+	******** NOTICIAS *********
 
 ***** Notícias sobre Tecnologia *****
 -
@@ -70,7 +70,7 @@ Si te pudieran decir sólo una cosa, ¿qué querrían los científicos que supie
 http://www.bbc.com/mundo/noticias-41859481
 
 ***** Notícias sobre Ciência *****
- 
+-
 
 Mario Hamuy: "No hay ninguna evidencia de que existan universos paralelos"
 http://www.bbc.com/mundo/noticias-41928688
@@ -133,7 +133,7 @@ http://www.bbc.com/mundo/noticias-41845946
 http://www.bbc.com/mundo/noticias-41860997
 
 ***** Notícias internacionais *****
- 
+-
 
 7 países que ponen restricciones a los tatuajes
 http://www.bbc.com/mundo/noticias-internacional-41937179
@@ -193,125 +193,5 @@ El misterio del hallazgo de los cuerpos de 26 adolescentes nigerianas en el Medi
 http://www.bbc.com/mundo/noticias-internacional-41910359
 
 Paradise Papers: el príncipe Carlos hizo cabildeo sobre el cambio climático tras comprar acciones offshore
-http://www.bbc.com/mundo/noticias-internacional-41909896
-
-http://www.bbc.com/mundo/noticias-41942409
-
-http://www.bbc.com/mundo/noticias-41948664
-
-http://www.bbc.com/mundo/noticias-41923608
-
-http://www.bbc.com/mundo/noticias-internacional-41935533
-
-http://www.bbc.com/mundo/noticias-41930689
-
-http://www.bbc.com/mundo/media-41933057
-
-http://www.bbc.com/mundo/noticias-41811098
-
-http://www.bbc.com/mundo/noticias-41926662
-
-http://www.bbc.com/mundo/noticias-41923606
-
-http://www.bbc.com/mundo/noticias-41907523
-
-http://www.bbc.com/mundo/noticias-41916908
-
-http://www.bbc.com/mundo/noticias-41900554
-
-http://www.bbc.com/mundo/noticias-41408116
-
-http://www.bbc.com/mundo/noticias-41421376
-
-http://www.bbc.com/mundo/noticias-41907522
-
-http://www.bbc.com/mundo/noticias-internacional-41894564
-
-http://www.bbc.com/mundo/noticias-41886537
-
-http://www.bbc.com/mundo/noticias-41888431
-
-http://www.bbc.com/mundo/noticias-41859366
-
-http://www.bbc.com/mundo/noticias-41859481
-
-http://www.bbc.com/mundo/noticias-41928688
-
-http://www.bbc.com/mundo/noticias-41923609
-
-http://www.bbc.com/mundo/noticias-41818500
-
-http://www.bbc.com/mundo/noticias-41937466
-
-http://www.bbc.com/mundo/media-41934317
-
-http://www.bbc.com/mundo/noticias-41929737
-
-http://www.bbc.com/mundo/media-41930007
-
-http://www.bbc.com/mundo/noticias-41674285
-
-http://www.bbc.com/mundo/noticias-41900755
-
-http://www.bbc.com/mundo/media-41915456
-
-http://www.bbc.com/mundo/noticias-41915455
-
-http://www.bbc.com/mundo/noticias-41748366
-
-http://www.bbc.com/mundo/noticias-41849920
-
-http://www.bbc.com/mundo/noticias-41907802
-
-http://www.bbc.com/mundo/noticias-41901164
-
-http://www.bbc.com/mundo/noticias-41900754
-
-http://www.bbc.com/mundo/noticias-41887479
-
-http://www.bbc.com/mundo/noticias-41863029
-
-http://www.bbc.com/mundo/noticias-41845946
-
-http://www.bbc.com/mundo/noticias-41860997
-
-http://www.bbc.com/mundo/noticias-internacional-41937179
-
-http://www.bbc.com/mundo/noticias-internacional-41948122
-
-http://www.bbc.com/mundo/noticias-internacional-41942406
-
-http://www.bbc.com/mundo/noticias-internacional-41932320
-
-http://www.bbc.com/mundo/noticias-internacional-41935537
-
-http://www.bbc.com/mundo/noticias-internacional-41920774
-
-http://www.bbc.com/mundo/noticias-internacional-41935533
-
-http://www.bbc.com/mundo/noticias-internacional-41934743
-
-http://www.bbc.com/mundo/noticias-internacional-41924001
-
-http://www.bbc.com/mundo/noticias-internacional-41923514
-
-http://www.bbc.com/mundo/noticias-internacional-41916938
-
-http://www.bbc.com/mundo/noticias-internacional-41915175
-
-http://www.bbc.com/mundo/noticias-internacional-41918306
-
-http://www.bbc.com/mundo/noticias-internacional-41865730
-
-http://www.bbc.com/mundo/noticias-internacional-41908572
-
-http://www.bbc.com/mundo/noticias-internacional-41667460
-
-http://www.bbc.com/mundo/noticias-internacional-41910360
-
-http://www.bbc.com/mundo/noticias-internacional-41909900
-
-http://www.bbc.com/mundo/noticias-internacional-41910359
-
 http://www.bbc.com/mundo/noticias-internacional-41909896
 

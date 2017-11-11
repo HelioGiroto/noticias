@@ -29,7 +29,7 @@ do
 	url=$(hxnormalize -x ${sites[$i]} | hxselect -s'|' a.title-link | tr "\n" " " | sed 's/  //g; s/|/\n/g' | cut -d'"' -f4 | sed 's-^-http://www.bbc.com-g' | tr "\n" ",")
 
 
-	echo "**** Noticias:" ${noticias[$i]} "****" >> $nomearq
+	echo "### Noticias:" ${noticias[$i]} "###" >> $nomearq
 	echo >> $nomearq
 
 	for x in $(seq 20)

@@ -1,13 +1,10 @@
-Sáb Nov 11 10:00:48 BRST 2017
+Sáb Nov 11 19:33:17 BRST 2017
 
-Temperatura em Sao Paulo: 20 ºC
+Temperatura em Sao Paulo: 18 ºC
 
 Clima:  Muitas nuvens
 
-	******** NOTICIAS *********
-
-***** Notícias sobre Tecnologia *****
--
+**** Noticias: Tecnologia ****
 
 Las páginas web para saber si el número que te llamó es &#x27;spam&#x27; y cómo denunciarlo
 http://www.bbc.com/mundo/noticias-41942409
@@ -69,8 +66,11 @@ http://www.bbc.com/mundo/noticias-41859366
 Si te pudieran decir sólo una cosa, ¿qué querrían los científicos que supieras?
 http://www.bbc.com/mundo/noticias-41859481
 
-***** Notícias sobre Ciência *****
--
+
+**** Noticias: Ciencia ****
+
+Las “sesiones locas” en las que el gigante de la biología Sydney Brenner ayudó a sentar las bases de la era genética en la que vivimos
+http://www.bbc.com/mundo/noticias-41894594
 
 ¿Hubo alguna vez un Imperio inca?: la visión de Jago Cooper, director de América del Museo Británico
 http://www.bbc.com/mundo/noticias-41782657
@@ -129,11 +129,17 @@ http://www.bbc.com/mundo/noticias-41900754
 La gigantesca máquina enterrada en una ciudad de Alemania que investiga la partícula más insignificante del universo
 http://www.bbc.com/mundo/noticias-41887479
 
-Entrena tu mente: ¿cuánto dinero tienes?
-http://www.bbc.com/mundo/noticias-41863029
 
-***** Notícias internacionais *****
--
+**** Noticias: Internacional ****
+
+La pequeña ciudad de Estados Unidos donde se desarrolló un arma secreta crucial para derrotar a los nazis en la Segunda Guerra Mundial
+http://www.bbc.com/mundo/noticias-internacional-41907637
+
+3 preguntas para entender la "guerra fría" entre Irán y Arabia Saudita
+http://www.bbc.com/mundo/noticias-internacional-41955921
+
+Cómo la empresa de un exjefe de la KGB quedó encargada de la seguridad de las sedes diplomáticas de Estados Unidos en Rusia
+http://www.bbc.com/mundo/noticias-internacional-41932617
 
 Sostenes con cámaras y otros 8 aparatos ingeniosos (y letales) que crearon los espías más sofisticados de la Guerra Fría
 http://www.bbc.com/mundo/noticias-internacional-41885497
@@ -186,12 +192,4 @@ http://www.bbc.com/mundo/noticias-internacional-41865730
 Culto a la personalidad y promesas de gloria: las diferencias y semejanzas entre los presidentes Donald Trump y Xi Jinping
 http://www.bbc.com/mundo/noticias-internacional-41908572
 
-Cómo impactó la Unión Soviética en el surgimiento y expansión del radicalismo islamista
-http://www.bbc.com/mundo/noticias-internacional-41667460
-
-Las tres importantes victorias electorales que obtuvo el Partido Demócrata (y por que deberían "preocupar" a los republicanos y a Trump)
-http://www.bbc.com/mundo/noticias-internacional-41910360
-
-"No nos pongan a prueba": la advertencia a Corea del Norte que lanzó Donald Trump en su visita a Seúl
-http://www.bbc.com/mundo/noticias-internacional-41909900
 

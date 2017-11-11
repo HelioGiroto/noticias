@@ -1,6 +1,5 @@
-Sáb11Nov1996
 
-Temperatura em Sao Paulo: 17 ºC
+Temperatura em Sao Paulo: 18 ºC
 
 Clima:  Muitas nuvens
 

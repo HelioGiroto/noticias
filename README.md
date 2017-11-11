@@ -1,8 +1,8 @@
-Sáb Nov 11 00:18:06 BRST 2017
+Sáb Nov 11 10:00:48 BRST 2017
 
-Temperatura em Sao Paulo: 21 ºC
+Temperatura em Sao Paulo: 20 ºC
 
-Clima:  Pancada de chuva
+Clima:  Muitas nuvens
 
 	******** NOTICIAS *********
 
@@ -72,6 +72,12 @@ http://www.bbc.com/mundo/noticias-41859481
 ***** Notícias sobre Ciência *****
 -
 
+¿Hubo alguna vez un Imperio inca?: la visión de Jago Cooper, director de América del Museo Británico
+http://www.bbc.com/mundo/noticias-41782657
+
+La misteriosa nube radioactiva de origen desconocido que cubrió Europa durante más de 15 días
+http://www.bbc.com/mundo/noticias-41952488
+
 Mario Hamuy: "No hay ninguna evidencia de que existan universos paralelos"
 http://www.bbc.com/mundo/noticias-41928688
 
@@ -126,14 +132,14 @@ http://www.bbc.com/mundo/noticias-41887479
 Entrena tu mente: ¿cuánto dinero tienes?
 http://www.bbc.com/mundo/noticias-41863029
 
-Gabrielle Walker: “Tenemos que empezar a imaginar cómo es el mundo que necesitamos y después crearlo juntos”
-http://www.bbc.com/mundo/noticias-41845946
-
-6 de las más extrañas teorías científicas olvidadas de la historia
-http://www.bbc.com/mundo/noticias-41860997
-
 ***** Notícias internacionais *****
 -
+
+Sostenes con cámaras y otros 8 aparatos ingeniosos (y letales) que crearon los espías más sofisticados de la Guerra Fría
+http://www.bbc.com/mundo/noticias-internacional-41885497
+
+Por qué Líbano está en el centro de la creciente tensión entre Arabia Saudita e Irán que amenaza con desencadenar una crisis en Medio Oriente
+http://www.bbc.com/mundo/noticias-internacional-41942812
 
 7 países que ponen restricciones a los tatuajes
 http://www.bbc.com/mundo/noticias-internacional-41937179
@@ -188,10 +194,4 @@ http://www.bbc.com/mundo/noticias-internacional-41910360
 
 "No nos pongan a prueba": la advertencia a Corea del Norte que lanzó Donald Trump en su visita a Seúl
 http://www.bbc.com/mundo/noticias-internacional-41909900
-
-El misterio del hallazgo de los cuerpos de 26 adolescentes nigerianas en el Mediterráneo que Italia investiga
-http://www.bbc.com/mundo/noticias-internacional-41910359
-
-Paradise Papers: el príncipe Carlos hizo cabildeo sobre el cambio climático tras comprar acciones offshore
-http://www.bbc.com/mundo/noticias-internacional-41909896
 

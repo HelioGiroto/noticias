@@ -6,13 +6,11 @@
 # - Um array de URLs respectivas
 # Depois sobe para um arquivo.MD no Github
 
-# Porém a lista de h3 teria espacos e teria que mudar o IFS depois 'des-'mudar, etc..
+# Porém a lista de h3 teria espacos nas frases e teria que mudar o IFS depois 'des-'mudar, etc..
 
-# Assim, achei mais simplificado fazer usando um laço para ler cada linha de cada parse (H3 e URLs). Uso SED -n '1p' para isso!
+# Assim, achei mais simplificado fazer usando um laço para ler cada linha de cada arquivo parseado (H3 e URLs). Depois uso SED -n '1p' para isso!
  
-
 # ----------------------------------
-
 
 # array de urls (Como formar um array de uma lista de items que o hxselect devolve):
 
@@ -95,6 +93,7 @@ do
 	echo >> $nomearq
 done
 
+# Manipulando arquivos ...
 
 rm *.items			# Apaga arquivos dos items
 
@@ -107,6 +106,9 @@ git add .
 git commit -m "Atualizando..."
 git push -u origin master
 
-firefox https://github.com/HelioGiroto/noticias
+# Abre navegador com a página atualizada:
+chromium-browser https://github.com/HelioGiroto/noticias/blob/master/README.md
 
 # Instalar dropbox via terminal: https://www.dropbox.com/install
+
+# Autor: Helio Giroto - Licença MIT de copyright

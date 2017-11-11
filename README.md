@@ -1,7 +1,8 @@
+Sáb 11/Nov/2017 21:56:52
 
 Temperatura em Sao Paulo: 18 ºC
 
-Clima:  Muitas nuvens
+Clima:  Céu encoberto
 
 ### Noticias: Tecnologia ###
 

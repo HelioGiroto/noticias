@@ -4,7 +4,7 @@ Temperatura em Sao Paulo: 18 ºC
 
 Clima:  Muitas nuvens
 
-**** Noticias: Tecnologia ****
+**Noticias: Tecnologia**
 
 Las páginas web para saber si el número que te llamó es &#x27;spam&#x27; y cómo denunciarlo
 http://www.bbc.com/mundo/noticias-41942409
@@ -67,7 +67,7 @@ Si te pudieran decir sólo una cosa, ¿qué querrían los científicos que supie
 http://www.bbc.com/mundo/noticias-41859481
 
 
-**** Noticias: Ciencia ****
+**Noticias: Ciencia**
 
 Las “sesiones locas” en las que el gigante de la biología Sydney Brenner ayudó a sentar las bases de la era genética en la que vivimos
 http://www.bbc.com/mundo/noticias-41894594
@@ -130,7 +130,7 @@ La gigantesca máquina enterrada en una ciudad de Alemania que investiga la part
 http://www.bbc.com/mundo/noticias-41887479
 
 
-**** Noticias: Internacional ****
+**Noticias: Internacional**
 
 La pequeña ciudad de Estados Unidos donde se desarrolló un arma secreta crucial para derrotar a los nazis en la Segunda Guerra Mundial
 http://www.bbc.com/mundo/noticias-internacional-41907637

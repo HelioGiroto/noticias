@@ -8,12 +8,12 @@ date | awk '{print $1 " " $3 "/" $2 "/" $6 " " $4}' > $nomearq
 echo >> $nomearq
 
 # Raspagem de dados sobre clima e condiçöes climáticas:
-temperatura=$(hxnormalize -x https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp | hxselect -c p#momento-temperatura | sed 's/&.*//')
+temperatura=$(hxnormalize -x https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp | hxselect -c p#momento-temperatura | hxunent)
 
 condicao=$(hxnormalize -x https://www.climatempo.com.br/previsao-do-tempo/cidade/558/saopaulo-sp | hxselect -c p#momento-condicao)
 
 # Imprime dados no arquivo sobre o Clima:
-echo "Temperatura em Sao Paulo:" $temperatura "ºC" >> $nomearq
+echo "Temperatura em Sao Paulo:" $temperatura "C" >> $nomearq
 echo >> $nomearq
 echo "Clima: " $condicao >> $nomearq
 echo >> $nomearq
@@ -25,9 +25,9 @@ noticias=(Tecnologia Ciencia Internacional)
 
 for i in $(seq 0 2)
 do
-	h3=$(hxnormalize -x ${sites[$i]} | hxselect -s'|' -c h3 span | tr "\n" " " | sed 's/&quot;/"/g ; s/  //g')
-	url=$(hxnormalize -x ${sites[$i]} | hxselect -s'|' a.title-link | tr "\n" " " | sed 's/  //g; s/|/\n/g' | cut -d'"' -f4 | sed 's-^-http://www.bbc.com-g' | tr "\n" ",")
 
+	h3=$(hxnormalize -x -i0 -l1000 ${sites[$i]} | hxselect -s'|' -c h3 span | hxunent)
+	url=$(hxnormalize -x -i0 -l1000 ${sites[$i]} | hxselect a.title-link | hxwls | tr "\n" ",")
 
 	echo "### Noticias:" ${noticias[$i]} "###" >> $nomearq
 	echo >> $nomearq
@@ -36,12 +36,11 @@ do
 	do
 		titulo=$(echo $h3 | cut -d"|" -f$x)	# Este script tb nao usa arrays, mas-
 		link=$(echo $url | cut -d"," -f$x)	# ...-corta o texto (slice).
-		printf "%s\n\n" "[$titulo]($link)" >> $nomearq	# Formato para MarkDown - Github
+		printf "%s\n\n" "[$titulo](http://www.bbc.com$link)" >> $nomearq  # Formato MarkDown
 	done
 
 	echo >> $nomearq
 done
-
 
 # Copia para GitHub:
 cp $nomearq ~/Documentos/noticias/README.md

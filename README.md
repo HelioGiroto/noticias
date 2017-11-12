@@ -1,6 +1,6 @@
-Dom 12/Nov/2017 16:45:31
+Dom 12/Nov/2017 16:53:27
 
-Temperatura em Sao Paulo: 28 ºC
+Temperatura em Sao Paulo: 26° C
 
 Clima:  Poucas nuvens
 

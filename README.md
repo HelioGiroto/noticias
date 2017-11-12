@@ -1,6 +1,6 @@
-Sáb 11/Nov/2017 21:56:52
+Sáb 11/Nov/2017 22:01:34
 
-Temperatura em Sao Paulo: 18 ºC
+Temperatura em Sao Paulo: 17 ºC
 
 Clima:  Céu encoberto
 

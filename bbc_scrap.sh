@@ -4,7 +4,7 @@ dia=$(date | awk '{print $3 $2 $6}')
 nomearq="BBC_noticias_"$dia".txt"
 
 # Imprime cabeçalho do Arquivo de noticias com a data de hoje:
-date | awk '{print $1' '$3'/'$2'/'$6' '$4}' > $nomearq
+date | awk '{print $1 " " $3 "/" $2 "/" $6 " " $4}' > $nomearq
 echo >> $nomearq
 
 # Raspagem de dados sobre clima e condiçöes climáticas:
@@ -43,6 +43,9 @@ do
 done
 
 
+# Certifica que o arquivo está mesmo no Desktop:
+cp $nomearq ~/Escritorio/$nomearq
+
 # Copia para GitHub:
 cp $nomearq ~/Documentos/noticias/README.md
 cd ~/Documentos/noticias
@@ -52,6 +55,7 @@ git commit -m "Atualizado!"
 git push -u origin master
 
 # Retira formato de MarkDown para salvar em disco e no Dropbox:
+cd ~/Escritorio
 sed -i 's/](/\n/g; s/\[//g; s/)//g' $nomearq
 
 # Salva para Dropbox:

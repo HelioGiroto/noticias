@@ -1,12 +1,16 @@
-Sáb 11/Nov/2017 22:10:55
+Dom 12/Nov/2017 16:45:31
 
-Temperatura em Sao Paulo: 17 ºC
+Temperatura em Sao Paulo: 28 ºC
 
-Clima:  Céu encoberto
+Clima:  Poucas nuvens
 
 ### Noticias: Tecnologia ###
 
-[Las páginas web para saber si el número que te llamó es &#x27;spam&#x27; y cómo denunciarlo](http://www.bbc.com/mundo/noticias-41942409)
+[Por qué los bancos tradicionales no se fían de las controvertidas criptomonedas y las conocidas como operaciones ICO](http://www.bbc.com/mundo/noticias-internacional-41921278)
+
+[Qué es el "gorro de hechicero" que necesitaremos para evitar que nuestro cerebro sea eclipsado por la inteligencia artificial](http://www.bbc.com/mundo/noticias-41946439)
+
+[Las páginas web para saber si el número que te llamó es 'spam' y cómo denunciarlo](http://www.bbc.com/mundo/noticias-41942409)
 
 [¿Por qué Twitter suspendió la verificación de sus cuentas?](http://www.bbc.com/mundo/noticias-41948664)
 
@@ -42,12 +46,14 @@ Clima:  Céu encoberto
 
 [¿Cómo saber si eres parte del millón de personas que descargó una versión falsa de WhatsApp?](http://www.bbc.com/mundo/noticias-41888431)
 
-[6 claves para hacer que tu negocio se destaque en internet](http://www.bbc.com/mundo/noticias-41859366)
-
-[Si te pudieran decir sólo una cosa, ¿qué querrían los científicos que supieras?](http://www.bbc.com/mundo/noticias-41859481)
-
 
 ### Noticias: Ciencia ###
+
+[Las espléndidas ilustraciones con las que el "Doctor Bacteria", el Nobel Santiago Ramón y Cajal, desnudó el cerebro](http://www.bbc.com/mundo/noticias-41906164)
+
+[Qué es el "gorro de hechicero" que necesitaremos para evitar que nuestro cerebro sea eclipsado por la inteligencia artificial](http://www.bbc.com/mundo/noticias-41946439)
+
+[¿Por qué nos dan esas irresistibles ganas de ir al baño cuando llegamos a casa?](http://www.bbc.com/mundo/noticias-41906163)
 
 [Las “sesiones locas” en las que el gigante de la biología Sydney Brenner ayudó a sentar las bases de la era genética en la que vivimos](http://www.bbc.com/mundo/noticias-41894594)
 
@@ -83,18 +89,20 @@ Clima:  Céu encoberto
 
 [Siria se unirá al Acuerdo de París sobre Cambio Climático y deja a Estados Unidos como el único país que lo rechaza](http://www.bbc.com/mundo/noticias-41907802)
 
-[Marie Curie y otras 4 mujeres pioneras del mundo de la ciencia](http://www.bbc.com/mundo/noticias-41901164)
-
-[Encuentran los restos fósiles "más antiguos" de nuestros ancestros](http://www.bbc.com/mundo/noticias-41900754)
-
-[La gigantesca máquina enterrada en una ciudad de Alemania que investiga la partícula más insignificante del universo](http://www.bbc.com/mundo/noticias-41887479)
-
 
 ### Noticias: Internacional ###
 
+[Maletas con dinero, juegos mentales y hackeo: cómo se pueden manipular los resultados de unas elecciones](http://www.bbc.com/mundo/noticias-internacional-40963686)
+
+[Por qué los bancos tradicionales no se fían de las controvertidas criptomonedas y las conocidas como operaciones ICO](http://www.bbc.com/mundo/noticias-internacional-41921278)
+
+[El hombre que sobrevivió a cinco campos de concentración en el Holocausto y hoy difunde un mensaje de tolerancia en América Latina](http://www.bbc.com/mundo/noticias-internacional-41944708)
+
+[La multitudinaria manifestación en Barcelona por la liberación de los líderes independentistas de Cataluña](http://www.bbc.com/mundo/noticias-internacional-41958299)
+
 [La pequeña ciudad de Estados Unidos donde se desarrolló un arma secreta crucial para derrotar a los nazis en la Segunda Guerra Mundial](http://www.bbc.com/mundo/noticias-internacional-41907637)
 
-[3 preguntas para entender la "guerra fría" entre Irán y Arabia Saudita](http://www.bbc.com/mundo/noticias-internacional-41955921)
+[3 preguntas para entender la "guerra fría" entre Irán y Arabia Saudita que amenaza con desestabilizar Medio Oriente](http://www.bbc.com/mundo/noticias-internacional-41955921)
 
 [Cómo la empresa de un exjefe de la KGB quedó encargada de la seguridad de las sedes diplomáticas de Estados Unidos en Rusia](http://www.bbc.com/mundo/noticias-internacional-41932617)
 
@@ -123,13 +131,5 @@ Clima:  Céu encoberto
 [Las 3 cosas que “El Chapo” Guzmán espera en su prisión de Nueva York](http://www.bbc.com/mundo/noticias-internacional-41923514)
 
 [Cuán pobres nos hace que los ultrarricos tengan su dinero en paraísos fiscales como revelaron los Paradise Papers](http://www.bbc.com/mundo/noticias-internacional-41916938)
-
-[¿Ganaría Donald Trump las elecciones presidenciales en Estados Unidos si se realizaran hoy en día?](http://www.bbc.com/mundo/noticias-internacional-41915175)
-
-[Estados Unidos publica las nuevas restricciones para viajes a Cuba y la lista de empresas vinculadas a militares de la isla con las que prohíbe hacer negocios](http://www.bbc.com/mundo/noticias-internacional-41918306)
-
-[Cuándo EE.UU. "perdió su grandeza" y cuánto tuvo que ver la victoria de Donald Trump hace un año](http://www.bbc.com/mundo/noticias-internacional-41865730)
-
-[Culto a la personalidad y promesas de gloria: las diferencias y semejanzas entre los presidentes Donald Trump y Xi Jinping](http://www.bbc.com/mundo/noticias-internacional-41908572)
 
 

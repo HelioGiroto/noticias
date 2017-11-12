@@ -34,17 +34,14 @@ do
 
 	for x in $(seq 20)
 	do
-		titulo=$(echo $h3 | cut -d"|" -f$x)
-		link=$(echo $url | cut -d"," -f$x)
-		printf "%s\n\n" "[$titulo]($link)" >> $nomearq
+		titulo=$(echo $h3 | cut -d"|" -f$x)	# Este script tb nao usa arrays, mas-
+		link=$(echo $url | cut -d"," -f$x)	# ...-corta o texto (slice).
+		printf "%s\n\n" "[$titulo]($link)" >> $nomearq	# Formato para MarkDown - Github
 	done
 
 	echo >> $nomearq
 done
 
-
-# Certifica que o arquivo está mesmo no Desktop:
-cp $nomearq ~/Escritorio/$nomearq
 
 # Copia para GitHub:
 cp $nomearq ~/Documentos/noticias/README.md
@@ -55,7 +52,7 @@ git commit -m "Atualizado!"
 git push -u origin master
 
 # Retira formato de MarkDown para salvar em disco e no Dropbox:
-cd ~/Escritorio
+cd -		# Volta ao diretório que estava antes de ir ao diretorio de GitHub
 sed -i 's/](/\n/g; s/\[//g; s/)//g' $nomearq
 
 # Salva para Dropbox:
@@ -63,7 +60,5 @@ cp $nomearq ~/Dropbox
 
 # Abre navegador com a página atualizada:
 chromium-browser https://github.com/HelioGiroto/noticias/blob/master/README.md
-
-# Instalar dropbox via terminal: https://www.dropbox.com/install
 
 # Autor: Helio Giroto - Licença MIT de copyright

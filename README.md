@@ -1,10 +1,20 @@
-Dom 12/Nov/2017 16:53:27
+Ter 14/Nov/2017 14:21:50
 
 Temperatura em Sao Paulo: 26° C
 
-Clima:  Poucas nuvens
+Clima:  Alguma nebulosidade
 
 ### Noticias: Tecnologia ###
+
+[La extraña muerte de Henry Badenhorst, el hombre que revolucionó las citas gay por internet](http://www.bbc.com/mundo/noticias-41982940)
+
+[¿Por qué se hizo popular en redes sociales el hashtag #MeAt14 junto a fotos de personas de cuando tenían 14 años?](http://www.bbc.com/mundo/noticias-internacional-41977771)
+
+[Cómo es la batería de litio más grande del mundo y a cuántos hogares puede darles energía en Estados Unidos](http://www.bbc.com/mundo/noticias-41936641)
+
+[Los perversos videos de "Peppa Pig" y otras versiones macabras de dibujos animados que YouTube ya no dejará ver a los niños](http://www.bbc.com/mundo/noticias-41969591)
+
+[Qué son las puertas Norman, las que hacen que te equivoques cuando quieres entrar o salir](http://www.bbc.com/mundo/noticias-41587542)
 
 [Por qué los bancos tradicionales no se fían de las controvertidas criptomonedas y las conocidas como operaciones ICO](http://www.bbc.com/mundo/noticias-internacional-41921278)
 
@@ -36,18 +46,20 @@ Clima:  Poucas nuvens
 
 ["El fin de una era": Twitter duplica el tamaño de sus mensajes y ahora podrán alcanzar los 280 caracteres](http://www.bbc.com/mundo/noticias-41408116)
 
-[¿Cuánto habrían podido decir Neruda, Shakespeare y otros maestros de la palabra con el nuevo límite de 280 caracteres de Twitter?](http://www.bbc.com/mundo/noticias-41421376)
-
-[4 problemas del nuevo iPhone X, el más costoso en la historia de Apple](http://www.bbc.com/mundo/noticias-41907522)
-
-[Paradise Papers: el refugio tributario de Apple al descubierto](http://www.bbc.com/mundo/noticias-internacional-41894564)
-
-[De bloguera adolescente a multimillonaria de la belleza: la historia de cómo Isabella Lowengrip alcanzó el éxito y la fama](http://www.bbc.com/mundo/noticias-41886537)
-
-[¿Cómo saber si eres parte del millón de personas que descargó una versión falsa de WhatsApp?](http://www.bbc.com/mundo/noticias-41888431)
-
 
 ### Noticias: Ciencia ###
+
+[El mapa que revela el calor escondido en las rocas bajo la capa de hielo que recubre Antártica](http://www.bbc.com/mundo/noticias-41983579)
+
+[El modelo matemático que calcula a partir de qué número de personas un puente puede empezar a balancearse](http://www.bbc.com/mundo/noticias-41969442)
+
+[Cómo es la batería de litio más grande del mundo y a cuántos hogares puede darles energía en Estados Unidos](http://www.bbc.com/mundo/noticias-41936641)
+
+[El impresionante espectáculo que Venus y Júpiter, los dos planetas más brillantes del Sistema Solar, le regalaron a los madrugadores del hemisferio norte](http://www.bbc.com/mundo/noticias-41969441)
+
+[Entrena tu mente: ¿qué tienen en común estos lugares?](http://www.bbc.com/mundo/noticias-41863025)
+
+[3 movimientos que hace la Tierra (que no son ni rotación ni traslación) y que quizás no conocías](http://www.bbc.com/mundo/noticias-41943066)
 
 [Las espléndidas ilustraciones con las que el "Doctor Bacteria", el Nobel Santiago Ramón y Cajal, desnudó el cerebro](http://www.bbc.com/mundo/noticias-41906164)
 
@@ -77,20 +89,32 @@ Clima:  Poucas nuvens
 
 [¿Cuántas veces debe estar expuesto el cerebro a una palabra para aprenderla?](http://www.bbc.com/mundo/noticias-41674285)
 
-[Miguel Pita: "Si no tienes los genes adecuados nunca llegarás a ser Mozart"](http://www.bbc.com/mundo/noticias-41900755)
-
-[¿Es este señor Barack Obama?](http://www.bbc.com/mundo/media-41915456)
-
-[La sorprendente capacidad de las ovejas para reconocer a Barack Obama y otros personajes famosos](http://www.bbc.com/mundo/noticias-41915455)
-
-[Estrellas, supernovas, galaxias... Pregunta todo lo que quieras saber sobre astronomía y el universo al científico chileno Mario Hamuy](http://www.bbc.com/mundo/noticias-41748366)
-
-[Entrena tu mente: ¿cuánto tardará el villano en controlar el mundo?](http://www.bbc.com/mundo/noticias-41849920)
-
-[Siria se unirá al Acuerdo de París sobre Cambio Climático y deja a Estados Unidos como el único país que lo rechaza](http://www.bbc.com/mundo/noticias-41907802)
-
 
 ### Noticias: Internacional ###
+
+[Quiénes son los "iliberales" de Europa y por qué desafían los valores europeos](http://www.bbc.com/mundo/noticias-internacional-41983929)
+
+[La historia detrás de la dramática foto del migrante que casi muere ahogado en el Mediterráneo](http://www.bbc.com/mundo/noticias-internacional-41982991)
+
+[La misteriosa muerte de un militar estadounidense en Mali por la que investigan a dos de sus compañeros](http://www.bbc.com/mundo/noticias-internacional-41978759)
+
+[Qué es la venganza de sangre que afecta a decenas de familias en un país de Europa](http://www.bbc.com/mundo/noticias-internacional-41961251)
+
+["Es un estigma vivir en la Cañada Real": cómo es el asentamiento ilegal que tiene más de 7.000 vecinos en Madrid](http://www.bbc.com/mundo/noticias-internacional-41668519)
+
+[¿Por qué se hizo popular en redes sociales el hashtag #MeAt14 junto a fotos de personas de cuando tenían 14 años?](http://www.bbc.com/mundo/noticias-internacional-41977771)
+
+["Es como si el tiempo se hubiera detenido": la difícil recuperación de Puerto Rico de la devastación causada por el huracán María](http://www.bbc.com/mundo/noticias-internacional-41975398)
+
+[La inusual deserción de un soldado de Corea del Norte que escapó al Sur por una de las fronteras más custodiadas del mundo](http://www.bbc.com/mundo/noticias-internacional-41975396)
+
+[Quién es Lana Lokteff, la “abeja reina” de la supremacía blanca en Estados Unidos y por qué dice que el papel de las mujeres es cuidar a los hombres y tener hijos](http://www.bbc.com/mundo/noticias-internacional-41926682)
+
+[Imágenes de la destrucción y el dolor tras el devastador terremoto que sacudió la frontera entre Irak e Irán](http://www.bbc.com/mundo/noticias-internacional-41967521)
+
+[El dramático caso de una madre británica encarcelada en Irán acusada de planear derrocar al gobierno](http://www.bbc.com/mundo/noticias-internacional-41963236)
+
+[Decenas de miles de personas pasan su segunda noche a la intemperie tras el fuerte terremoto entre Irak e Irán que dejó más de 420 muertos](http://www.bbc.com/mundo/noticias-internacional-41963476)
 
 [Maletas con dinero, juegos mentales y hackeo: cómo se pueden manipular los resultados de unas elecciones](http://www.bbc.com/mundo/noticias-internacional-40963686)
 
@@ -107,29 +131,5 @@ Clima:  Poucas nuvens
 [Cómo la empresa de un exjefe de la KGB quedó encargada de la seguridad de las sedes diplomáticas de Estados Unidos en Rusia](http://www.bbc.com/mundo/noticias-internacional-41932617)
 
 [Sostenes con cámaras y otros 8 aparatos ingeniosos (y letales) que crearon los espías más sofisticados de la Guerra Fría](http://www.bbc.com/mundo/noticias-internacional-41885497)
-
-[Por qué Líbano está en el centro de la creciente tensión entre Arabia Saudita e Irán que amenaza con desencadenar una crisis en Medio Oriente](http://www.bbc.com/mundo/noticias-internacional-41942812)
-
-[7 países que ponen restricciones a los tatuajes](http://www.bbc.com/mundo/noticias-internacional-41937179)
-
-[El mensaje oculto en el menú de la gira asiática de Donald Trump: la comida que le sirvieron y lo que significa](http://www.bbc.com/mundo/noticias-internacional-41948122)
-
-["Con 16 años maté a una persona": las polémicas declaraciones del presidente de Filipinas, Rodrigo Duterte](http://www.bbc.com/mundo/noticias-internacional-41942406)
-
-[Quién es Wang Huning, el verdadero cerebro tras el poder de Xi Jinping y sus predecesores en China](http://www.bbc.com/mundo/noticias-internacional-41932320)
-
-[Por qué le prohibieron la entrada a Chile al exboxeador Mike Tyson (y cómo eso desató el enfado de Maradona)](http://www.bbc.com/mundo/noticias-internacional-41935537)
-
-[Los controvertidos negocios de Donald Trump y su familia con China](http://www.bbc.com/mundo/noticias-internacional-41920774)
-
-[¿Cómo hizo Donald Trump para tuitear desde China si allí Twitter está bloqueado?](http://www.bbc.com/mundo/noticias-internacional-41935533)
-
-[La justicia de España dicta prisión eludible bajo fianza para la presidenta del disuelto Parlamento de Cataluña por permitir la declaración de independencia](http://www.bbc.com/mundo/noticias-internacional-41934743)
-
-[Por qué la purga anticorrupción de los últimos días demuestra la "dureza" del príncipe heredero de Arabia Saudita (y qué riesgos presenta)](http://www.bbc.com/mundo/noticias-internacional-41924001)
-
-[Las 3 cosas que “El Chapo” Guzmán espera en su prisión de Nueva York](http://www.bbc.com/mundo/noticias-internacional-41923514)
-
-[Cuán pobres nos hace que los ultrarricos tengan su dinero en paraísos fiscales como revelaron los Paradise Papers](http://www.bbc.com/mundo/noticias-internacional-41916938)
 
 

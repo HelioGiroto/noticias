@@ -1,12 +1,36 @@
-Ter 14/Nov/2017 14:21:50
+Sex 17/Nov/2017 14:53:27
 
-Temperatura em Sao Paulo: 26° C
+Temperatura em Sao Paulo: 22° C
 
-Clima:  Alguma nebulosidade
+Clima:  Muitas nuvens
 
 ### Noticias: Tecnologia ###
 
-[La extraña muerte de Henry Badenhorst, el hombre que revolucionó las citas gay por internet](http://www.bbc.com/mundo/noticias-41982940)
+[El truco para enviar fotos a través de WhatsApp sin que pierdan calidad](http://www.bbc.com/mundo/noticias-42025915)
+
+[El polémico error del Pentágono al retuitear un tuit que no debía sobre el presidente Donald Trump](http://www.bbc.com/mundo/noticias-42025905)
+
+["¡Y pum, salió el planeta!": cómo el astrónomo chileno Nicola Astudillo lideró el descubrimiento de Ross 128 b, el mundo habitable más cercano a la Tierra](http://www.bbc.com/mundo/noticias-42020345)
+
+[México: los miles de niños que toman clases por WhatsApp y Facebook en Guerrero por las amenazas del narco](http://www.bbc.com/mundo/noticias-america-latina-42005948)
+
+["Lamentamos haber arrancado 20 segundos antes": la insólita disculpa de uno de los trenes más puntuales de Japón (y del mundo)](http://www.bbc.com/mundo/noticias-42012372)
+
+[Amoy Antunet, la niña de 7 años que enseña neurociencia por internet](http://www.bbc.com/mundo/noticias-42012369)
+
+[Quién es Jan Koum, el cofundador de WhatsApp, que pasó de vivir de subsidios sociales a ser uno de los multimillonarios más exitosos de Silicon Valley](http://www.bbc.com/mundo/noticias-42004168)
+
+[La máquina suiza de vanguardia que puede absorber CO2 de la atmósfera y transformarlo en un producto útil](http://www.bbc.com/mundo/noticias-41997652)
+
+["La ballena que explota": la curiosa historia detrás de uno de los videos más virales de la historia de internet](http://www.bbc.com/mundo/noticias-41997582)
+
+[Las tácticas y ciberataques con los que se influenciaron las elecciones en 18 países, según la organización Freedom House](http://www.bbc.com/mundo/noticias-41991202)
+
+[Cómo usar el gestor de contraseñas de tu navegador y cuáles son los riesgos y ventajas](http://www.bbc.com/mundo/noticias-41982946)
+
+[La pastilla inteligente que te dice si te la has tomado y por dónde va en tu cuerpo](http://www.bbc.com/mundo/noticias-41987216)
+
+[La trágica muerte de Henry Badenhorst, el hombre que revolucionó las citas gay por internet](http://www.bbc.com/mundo/noticias-41982940)
 
 [¿Por qué se hizo popular en redes sociales el hashtag #MeAt14 junto a fotos de personas de cuando tenían 14 años?](http://www.bbc.com/mundo/noticias-internacional-41977771)
 
@@ -22,75 +46,71 @@ Clima:  Alguma nebulosidade
 
 [Las páginas web para saber si el número que te llamó es 'spam' y cómo denunciarlo](http://www.bbc.com/mundo/noticias-41942409)
 
-[¿Por qué Twitter suspendió la verificación de sus cuentas?](http://www.bbc.com/mundo/noticias-41948664)
-
-[La agotadora rutina de los moderadores de Facebook que deben ver publicaciones de contenido violento](http://www.bbc.com/mundo/noticias-41923608)
-
-[¿Cómo hizo Donald Trump para tuitear desde China si allí Twitter está bloqueado?](http://www.bbc.com/mundo/noticias-internacional-41935533)
-
-[El invento para que una niña de 10 años recupere sus recuerdos perdidos después de un accidente](http://www.bbc.com/mundo/noticias-41930689)
-
-[El "Iron Man" que batió un record mundial al sobrevolar un lago con un traje de propulsión](http://www.bbc.com/mundo/media-41933057)
-
-[El plan de Facebook para permitir a sus usuarios que envíen fotos de desnudos de forma segura](http://www.bbc.com/mundo/noticias-41811098)
-
-[Choca en su primer viaje con pasajeros un autobús sin conductor en Las Vegas](http://www.bbc.com/mundo/noticias-41926662)
-
-[Por qué Snapchat está atravesando la peor crisis de su corta historia y qué planes tiene su creador, Evan Spiegel, para salvarla de las amenazas de Facebook e Instagram](http://www.bbc.com/mundo/noticias-41923606)
-
-[Qué es el MOCA, uno de los software más antiguos del planeta que aún sigue funcionando 58 años después de su creación](http://www.bbc.com/mundo/noticias-41907523)
-
-[“Tu suscripción será suspendida”: el falso correo que utiliza el logo de Netflix para robar tus datos personales](http://www.bbc.com/mundo/noticias-41916908)
-
-[Cómo los niños y jóvenes asiáticos están disparando las ventas por internet](http://www.bbc.com/mundo/noticias-41900554)
-
-["El fin de una era": Twitter duplica el tamaño de sus mensajes y ahora podrán alcanzar los 280 caracteres](http://www.bbc.com/mundo/noticias-41408116)
-
 
 ### Noticias: Ciencia ###
 
-[El mapa que revela el calor escondido en las rocas bajo la capa de hielo que recubre Antártica](http://www.bbc.com/mundo/noticias-41983579)
+[Las imágenes de la NASA que muestran cómo los huracanes arrastraron sal, arena y humo a distancias increíbles](http://www.bbc.com/mundo/media-42029081)
 
-[El modelo matemático que calcula a partir de qué número de personas un puente puede empezar a balancearse](http://www.bbc.com/mundo/noticias-41969442)
+[Entrena tu mente: ¿cuál es la hora correcta?](http://www.bbc.com/mundo/noticias-41655794)
 
-[Cómo es la batería de litio más grande del mundo y a cuántos hogares puede darles energía en Estados Unidos](http://www.bbc.com/mundo/noticias-41936641)
+[El Premio Balzan, el desconocido galardón que "predice" el Nobel y fomenta la investigación](http://www.bbc.com/mundo/noticias-41760649)
 
-[El impresionante espectáculo que Venus y Júpiter, los dos planetas más brillantes del Sistema Solar, le regalaron a los madrugadores del hemisferio norte](http://www.bbc.com/mundo/noticias-41969441)
+[Alemania: cómo es vivir en Friburgo, la ciudad "más ecológica y sostenible" del mundo](http://www.bbc.com/mundo/noticias-41803115)
 
-[Entrena tu mente: ¿qué tienen en común estos lugares?](http://www.bbc.com/mundo/noticias-41863025)
+[La polémica decisión del gobierno de Trump de permitir la importación de trofeos de elefantes a Estados Unidos](http://www.bbc.com/mundo/noticias-42021433)
 
-[3 movimientos que hace la Tierra (que no son ni rotación ni traslación) y que quizás no conocías](http://www.bbc.com/mundo/noticias-41943066)
+["¡Y pum, salió el planeta!": cómo el astrónomo chileno Nicola Astudillo lideró el descubrimiento de Ross 128 b, el mundo habitable más cercano a la Tierra](http://www.bbc.com/mundo/noticias-42020345)
 
-[Las espléndidas ilustraciones con las que el "Doctor Bacteria", el Nobel Santiago Ramón y Cajal, desnudó el cerebro](http://www.bbc.com/mundo/noticias-41906164)
+[¿Qué es la bomba de tiempo de nitrato que escondida bajo nuestros pies?](http://www.bbc.com/mundo/noticias-42006808)
 
-[Qué es el "gorro de hechicero" que necesitaremos para evitar que nuestro cerebro sea eclipsado por la inteligencia artificial](http://www.bbc.com/mundo/noticias-41946439)
+[¿Qué ciudades se inundarán por el derretimiento de los glaciares, según la NASA?](http://www.bbc.com/mundo/noticias-42011879)
 
-[¿Por qué nos dan esas irresistibles ganas de ir al baño cuando llegamos a casa?](http://www.bbc.com/mundo/noticias-41906163)
+[Amoy Antunet, la niña de 7 años que enseña neurociencia por internet](http://www.bbc.com/mundo/noticias-42012369)
 
-[Las “sesiones locas” en las que el gigante de la biología Sydney Brenner ayudó a sentar las bases de la era genética en la que vivimos](http://www.bbc.com/mundo/noticias-41894594)
+[La misteriosa desaparición del explorador Benedict Allen en su viaje solitario para encontrarse con una tribu de Papúa Nueva Guinea](http://www.bbc.com/mundo/noticias-42005181)
 
-[¿Hubo alguna vez un Imperio inca?: la visión de Jago Cooper, director de América del Museo Británico](http://www.bbc.com/mundo/noticias-41782657)
+[Cómo es Ross 128 b, el planeta más cercano y habitable que acaba de ser descubierto desde Chile](http://www.bbc.com/mundo/noticias-42005180)
 
-[La misteriosa nube radioactiva de origen desconocido que cubrió Europa durante más de 15 días](http://www.bbc.com/mundo/noticias-41952488)
+[Entrena tu mente con este acertijo: ¿cómo puedes ordenar los interruptores?](http://www.bbc.com/mundo/noticias-42004218)
 
-[Mario Hamuy: "No hay ninguna evidencia de que existan universos paralelos"](http://www.bbc.com/mundo/noticias-41928688)
+[La espectacular imagen de la nebulosa de Orión captada por una nueva y poderosa cámara robótica](http://www.bbc.com/mundo/noticias-41997653)
 
-[La Niña está de vuelta: ¿qué efectos tendrá el fenómeno sobre el clima del planeta?](http://www.bbc.com/mundo/noticias-41923609)
+[La máquina suiza de vanguardia que puede absorber CO2 de la atmósfera y transformarlo en un producto útil](http://www.bbc.com/mundo/noticias-41997652)
 
-[Entrena tu mente: ¿cuáles son tus apuestas?](http://www.bbc.com/mundo/noticias-41818500)
+["Hice la prueba midiendo el horizonte con una regla": los estadounidenses que aún creen que la Tierra es plana](http://www.bbc.com/mundo/media-42001392)
 
-[El tiburón "prehistórico" con 300 dientes que fue capturado por accidente](http://www.bbc.com/mundo/noticias-41937466)
+["La ballena que explota": la curiosa historia detrás de uno de los videos más virales de la historia de internet](http://www.bbc.com/mundo/noticias-41997582)
 
-[Cómo es la nueva vida de Hassan, el niño con "piel de mariposa” que le hicieron injertos modificados genéticamente](http://www.bbc.com/mundo/media-41934317)
+[Saul Luciano Lliuya, el peruano que se enfrenta a un gigante alemán de la energía al que acusa de derretir los glaciares de los Andes](http://www.bbc.com/mundo/noticias-america-latina-41991873)
 
-[La enigmática estrella "zombi" que se niega a morir y sobrevivió cinco veces](http://www.bbc.com/mundo/noticias-41929737)
+[La pastilla inteligente que te dice si te la has tomado y por dónde va en tu cuerpo](http://www.bbc.com/mundo/noticias-41987216)
 
-[El tenso momento en que dos grandes tiburones atacan al submarino de un equipo de Blue Planet II de la BBC](http://www.bbc.com/mundo/media-41930007)
+[Las desconocidas frutas brasileñas que pueden convertirse en los "superalimentos" del futuro](http://www.bbc.com/mundo/noticias-41983580)
 
-[¿Cuántas veces debe estar expuesto el cerebro a una palabra para aprenderla?](http://www.bbc.com/mundo/noticias-41674285)
+[VIDEO EN 360 GRADOS: La espectacular experiencia de nadar entre tiburones martillo en las Bahamas](http://www.bbc.com/mundo/media-41983801)
 
 
 ### Noticias: Internacional ###
+
+[Zimbabue: reaparece por primera vez en público el presidente Robert Mugabe tras la toma militar](http://www.bbc.com/mundo/noticias-internacional-42024215)
+
+[Muere Totò Riina, el histórico "capo de capos" de la mafia siciliana](http://www.bbc.com/mundo/noticias-internacional-42023376)
+
+[Inocente Montano, el excoronel de El Salvador acusado de orquestar el asesinato de seis curas jesuitas que será extraditado a España](http://www.bbc.com/mundo/noticias-internacional-42018944)
+
+[El drama ignorado de Kavumu, el pueblo donde cerca de 50 niñas fueron violadas durante 3 años "para hacer magia negra"](http://www.bbc.com/mundo/noticias-internacional-41997588)
+
+[Por qué China vigila tan de cerca la toma del poder por militares en Zimbabue y el futuro de Robert Mugabe](http://www.bbc.com/mundo/noticias-internacional-42010150)
+
+["Gucci" Grace Mugabe, la polémica primera dama de Zimbabue en el centro de la lucha por el poder en la nación africana](http://www.bbc.com/mundo/noticias-internacional-42003529)
+
+[Cómo Robert Mugabe ha durado 37 años en el poder en Zimbabue, que pasó de ser uno de los países más prósperos de África a uno de los más pobres](http://www.bbc.com/mundo/noticias-internacional-41998203)
+
+[El ejército toma el control en Zimbabue y pone "bajo arresto domiciliario" a Robert Mugabe, el presidente más viejo del mundo](http://www.bbc.com/mundo/noticias-internacional-41992654)
+
+[Investigación de la BBC: el pacto secreto que permitió a 250 combatientes de Estado Islámico escapar de Raqqa](http://www.bbc.com/mundo/noticias-internacional-41983649)
+
+[La imagen de un videojuego que Rusia utilizó para acusar a EE.UU. de apoyar a Estado Islámico](http://www.bbc.com/mundo/noticias-internacional-41991700)
 
 [Quiénes son los "iliberales" de Europa y por qué desafían los valores europeos](http://www.bbc.com/mundo/noticias-internacional-41983929)
 
@@ -108,28 +128,8 @@ Clima:  Alguma nebulosidade
 
 [La inusual deserción de un soldado de Corea del Norte que escapó al Sur por una de las fronteras más custodiadas del mundo](http://www.bbc.com/mundo/noticias-internacional-41975396)
 
-[Quién es Lana Lokteff, la “abeja reina” de la supremacía blanca en Estados Unidos y por qué dice que el papel de las mujeres es cuidar a los hombres y tener hijos](http://www.bbc.com/mundo/noticias-internacional-41926682)
+[Quién es Lana Lokteff, la "abeja reina" de la supremacía blanca en Estados Unidos y por qué dice que el papel de las mujeres es cuidar a los hombres y tener hijos](http://www.bbc.com/mundo/noticias-internacional-41926682)
 
 [Imágenes de la destrucción y el dolor tras el devastador terremoto que sacudió la frontera entre Irak e Irán](http://www.bbc.com/mundo/noticias-internacional-41967521)
-
-[El dramático caso de una madre británica encarcelada en Irán acusada de planear derrocar al gobierno](http://www.bbc.com/mundo/noticias-internacional-41963236)
-
-[Decenas de miles de personas pasan su segunda noche a la intemperie tras el fuerte terremoto entre Irak e Irán que dejó más de 420 muertos](http://www.bbc.com/mundo/noticias-internacional-41963476)
-
-[Maletas con dinero, juegos mentales y hackeo: cómo se pueden manipular los resultados de unas elecciones](http://www.bbc.com/mundo/noticias-internacional-40963686)
-
-[Por qué los bancos tradicionales no se fían de las controvertidas criptomonedas y las conocidas como operaciones ICO](http://www.bbc.com/mundo/noticias-internacional-41921278)
-
-[El hombre que sobrevivió a cinco campos de concentración en el Holocausto y hoy difunde un mensaje de tolerancia en América Latina](http://www.bbc.com/mundo/noticias-internacional-41944708)
-
-[La multitudinaria manifestación en Barcelona por la liberación de los líderes independentistas de Cataluña](http://www.bbc.com/mundo/noticias-internacional-41958299)
-
-[La pequeña ciudad de Estados Unidos donde se desarrolló un arma secreta crucial para derrotar a los nazis en la Segunda Guerra Mundial](http://www.bbc.com/mundo/noticias-internacional-41907637)
-
-[3 preguntas para entender la "guerra fría" entre Irán y Arabia Saudita que amenaza con desestabilizar Medio Oriente](http://www.bbc.com/mundo/noticias-internacional-41955921)
-
-[Cómo la empresa de un exjefe de la KGB quedó encargada de la seguridad de las sedes diplomáticas de Estados Unidos en Rusia](http://www.bbc.com/mundo/noticias-internacional-41932617)
-
-[Sostenes con cámaras y otros 8 aparatos ingeniosos (y letales) que crearon los espías más sofisticados de la Guerra Fría](http://www.bbc.com/mundo/noticias-internacional-41885497)
 
 

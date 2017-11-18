@@ -1,3 +1,6 @@
+## Noticias sobre pederastia extraidas del script Scrapear_google.sh ##
+ver https://github.com/HelioGiroto/noticias/blob/master/scrapear_google.sh
+
 1) [Los casos de abuso sexual cometidos por miembros del clero de la Iglesia católica hacen ... autoridades civiles de varios países, resultando en la persecución de los pederastas y demandas civiles contra las diócesis de la Iglesia Católica.](https://es.wikipedia.org/wiki/Casos_de_abuso_sexual_infantil_cometidos_por_miembros_de_la_Iglesia_cat%C3%B3lica)
 
 2) [6 de fev de 2017 - Casi 4.500 personas denunciaron abusos sexuales a menores por parte de miembros de la Iglesia Católica en Australia entre 1980 y 2015, ...](https://www.efe.com/efe/espana/sociedad/denuncian-unos-4-500-casos-de-pederastia-en-la-iglesia-catolica-australia/10004-3170377)

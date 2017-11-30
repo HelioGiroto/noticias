@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm ~/Documentos/noticias/README.md		# Sem isso as vezes dá conflito - Deleta o antigo da pasta!
+
 dia=$(date | awk '{print $3 $2 $6}')
 nomearq="BBC_noticias_"$dia".txt"
 

@@ -1,4 +1,4 @@
-Qui 30/Nov/2017 15:15:58
+Qui 30/Nov/2017 15:18:16
 
 Temperatura em Sao Paulo: 23° C
 

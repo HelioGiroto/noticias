@@ -1,6 +1,6 @@
-Qui 30/Nov/2017 15:18:16
+Qui 30/Nov/2017 15:22:35
 
-Temperatura em Sao Paulo: 23° C
+Temperatura em Sao Paulo: 22° C
 
 Clima:  Muitas nuvens
 

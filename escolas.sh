@@ -1,7 +1,15 @@
 #!/bin/bash
 
-arq=EscolaSantos.txt
+# Para descubrir quantas páginas deverá scrapear:
+# hxwls http://www.escolas.inf.br/sp/sao-vicente
+
+# As próx 2 linhas devem ser modificadas conforme a cidade:
+arq=EscolasSantos.txt
 site=http://www.escolas.inf.br/sp/santos
+
+# http://www.escolas.inf.br/sp/praia-grande		 # 74
+# http://www.escolas.inf.br/sp/sao-vicente		 # 132
+# http://www.escolas.inf.br/sp/santos			 # 164
 
 touch $arq
 
@@ -17,7 +25,3 @@ done
 
 
 echo FINALIZADO
-
-
-# http://www.escolas.inf.br/sp/sao-vicente
-

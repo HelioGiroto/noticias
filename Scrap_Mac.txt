@@ -1,0 +1,79 @@
+https://github.com/ericchiang/pup
+http://joeferner.github.io/2015/07/15/linux-command-line-html-and-awk/
+http://w3m.sourceforge.net/MANUAL
+https://www.linuxquestions.org/questions/programming-9/html-from-bash-4175536455/
+https://www.maketecheasier.com/manipulate-html-and-xml-files-from-commnad-line/
+
+
+TERMINAL LINE SCRAPING FOR MAC!!!!
+
+brew install https://raw.githubusercontent.com/EricChiang/pup/master/pup.rb
+
+https://github.com/ericchiang/pup/blob/master/README.md - documentacion
+
+—————————
+
+curl -s https://news.ycombinator.com/ | pup 'table table tr:nth-last-of-type(n+2) td.title a text{}'
+
+———————————————
+
+curl -s http://g1.globo.com/ | pup 'p text{}'
+
+curl -s http://www.adorocinema.com/filmes/numero-cinemas/ | pup 'h2 > a text{}'
+
+curl -s http://g1.globo.com/ | pup 'p.feed-post-body-title.gui-color-primary.gui-color-hover text{}'
+
+Ou:
+
+curl -s http://g1.globo.com/ | pup 'p.feed-post-body-title text{}'
+
+—————————————————
+
+
+curl -s http://www.adorocinema.com/filmes/numero-cinemas/ | pup '#content-layout > div.row.row-2-cols.row-col-padded.cf.section > div > div:nth-child(2) > div.meta > h2 > a text{}'
+
+Acima: Abri as ferramentas do Chrome e cliquei direito, copiar e copiar seletor! Depois pus entre as aspas simples depois de pup…
+
+
+———————————
+
+curl -s http://www.noticiacristiana.com/ | pup 'h4 text{}'
+curl -s http://www.noticiacristiana.com/ | pup 'strong text{}'
+
+OS DOIS (acima) JUNTOS:
+curl -s http://www.noticiacristiana.com/ | pup 'h4, strong text{}'
+
+UTRO SITE:
+curl -s http://www.acontecercristiano.net/ | pup 'h2 a text{}'
+
+Só links: 
+curl -s http://www.acontecercristiano.net/ | pup 'h2 a attr{href}'
+
+
+
+Curioso: curl -s http://www.acontecercristiano.net/ | pup --color 'h2 a'
+
+
+
+····
+##################################
+
+#!/bin/bash
+touch EscolasPraia.txt
+
+for pag in $(seq 74)
+do
+	echo http://www.escolas.inf.br/sp/praia-grande/${pag} >> EscolasPraia.txt
+	lynx -dump -nolist http://www.escolas.inf.br/sp/praia-grande/${pag} | grep -A4 -B2 'Ende' >> EscolasPraia.txt
+	echo "***" >> EscolasPraia.txt
+
+done
+
+
+echo FINALIZADO
+
+
+###################################
+
+
+

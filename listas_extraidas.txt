@@ -1,0 +1,12 @@
+hxnormalize -x -i0 -l1000 http://www.bbc.com/portuguese/popular/read | hxselect -s "\n" -c 'span.most-popular-list-item__headline' | hxunent | cat -n 
+# FINAL - Nomes das noticias
+
+
+hxnormalize -x -i0 -l1000 http://www.bbc.com/portuguese/popular/read | hxselect -s "\n" -c 'div.most-popular__list-container' | hxwls -b 'http://www.bbc.com' | cat -n 
+# FINAL - Lista de links das respectivas noticias
+
+
+curl -s http://store.steampowered.com/app/314500/Pixeluvo/ | pup 'div.game_purchase_price text{}' # preço editor imagens
+hxnormalize -x -i0 http://store.steampowered.com/app/314500/Pixeluvo/ | hxselect -s'\n' -c 'div.game_purchase_price'
+# Preço do PIXELUVO
+

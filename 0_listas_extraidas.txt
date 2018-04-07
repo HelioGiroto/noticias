@@ -1,8 +1,8 @@
-hxnormalize -x -i0 -l1000 http://www.bbc.com/portuguese/popular/read | hxselect -s "\n" -c 'span.most-popular-list-item__headline' | hxunent | cat -n 
+hxnormalize -x -i0 -l1000 http://www.bbc.com/portuguese/popular/read | hxselect -s "\n" -c 'span.most-popular-list-item__headline' | hxunent | cat -n
 # FINAL - Nomes das noticias
 
 
-hxnormalize -x -i0 -l1000 http://www.bbc.com/portuguese/popular/read | hxselect -s "\n" -c 'div.most-popular__list-container' | hxwls -b 'http://www.bbc.com' | cat -n 
+hxnormalize -x -i0 -l1000 http://www.bbc.com/portuguese/popular/read | hxselect -s "\n" -c 'div.most-popular__panels' | hxwls -b 'http://www.bbc.com' | cat -n
 # FINAL - Lista de links das respectivas noticias
 
 
